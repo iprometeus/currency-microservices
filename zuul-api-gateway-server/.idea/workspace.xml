@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0da2d1a8-5e2c-46e5-b0a7-2be3281f5ae1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jFC9bXqREfvuJmstTMd5bY9Nqc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ZuulApiGatewayServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.zuulapigatewayserver.ZuulApiGatewayServerApplication" />
+      <module name="zuul-api-gateway-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.zuulapigatewayserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZuulApiGatewayServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da2d1a8-5e2c-46e5-b0a7-2be3281f5ae1" name="Default Changelist" comment="" />
+      <created>1603390301107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603390301107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1603390899852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603390899852" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1603390336366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1603390336366" />
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1603797782225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603797782225" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1603797782225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603797782225" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1603797782225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603797782225" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1603797782225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603797782225" />
+    <state width="1493" height="224" key="GridCell.Tab.1.bottom" timestamp="1603797782226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603797782226" />
+    <state width="1493" height="224" key="GridCell.Tab.1.center" timestamp="1603797782226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603797782226" />
+    <state width="1493" height="224" key="GridCell.Tab.1.left" timestamp="1603797782225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603797782225" />
+    <state width="1493" height="224" key="GridCell.Tab.1.right" timestamp="1603797782226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603797782226" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1603656266495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603656266495" />
+  </component>
+</project>
